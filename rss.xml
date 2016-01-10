@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[testingSliceBelgium]]></title>
         <description><![CDATA[testingSliceBelgium]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/testingslicebelgium/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jan 2016 20:16:29 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 10 Jan 2016 20:34:43 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/testingslicebelgium/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/95bbe9e9-b11c-4806-83ea-0d469894c217.jpg">]]></description>
+            <link>https://thegrid.ai/testingslicebelgium/6f2c7fb4-db43-429c-ac43-b4a0264082a8/index.html</link>
+            <guid isPermaLink="false">6f2c7fb4-db43-429c-ac43-b4a0264082a8</guid>
+            <pubDate>Sun, 10 Jan 2016 20:34:42 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[heyhey]]></title>
-            <description><![CDATA[<article><h1>heyhey</h1><p>Hey hey hey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/15dc17ef56a6aa55e394e5e9f3408ad1e7353bbb.jpg"></article>]]></description>
-            <link>undefined0c807416-9866-4424-a40e-515bd137e593/index.html</link>
+            <description><![CDATA[<article><h1>heyhey</h1><p>Hey hey hey.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fdc1c289dac74dee04fdbdf258ef302734cd2a87.jpg"></article>]]></description>
+            <link>https://thegrid.ai/testingslicebelgium/0c807416-9866-4424-a40e-515bd137e593/index.html</link>
             <guid isPermaLink="false">0c807416-9866-4424-a40e-515bd137e593</guid>
             <pubDate>Sun, 10 Jan 2016 20:16:29 GMT</pubDate>
         </item>
